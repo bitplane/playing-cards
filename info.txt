@@ -1,0 +1,27 @@
+20
+28
+
+margins: 15% of width - 3 inches
+
+just fits on 4x A4 if there's no overlap and margins are 0.5cm
+
+double douvet = 78 x 78
+
+mattress size = 53 x 75
+
+Foam (20x28) (12)               = £4.50 * 12 = £54
+Printable iron on sheets (48)   = £16 * 2    = £32
+Duvet cover (1 or 2)            = £10 * 2    = £20
+Fitted white sheet (3)          = £4 * 3     = £12
+
+
+
+
+
+
+
+
+
+
+
+
